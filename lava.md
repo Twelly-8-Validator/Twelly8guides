@@ -6,8 +6,9 @@ This guide will help you manually install a Lava Protocol node and join the test
 #### **Step 1: System Preparation**
 
 1. **Verify Requirements:**
+
 |KEY|VALUE|
-|---|-----|
+|:--|:----|
 |**OS:**|Ubuntu 20.04 or later.|
 |**CPU:**|4 cores minimum.|
 |**RAM:**|8 GB or more.|
