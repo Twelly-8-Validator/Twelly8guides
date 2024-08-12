@@ -1,6 +1,12 @@
 
 <h1 align=center> Lava Testnet Node Setup Guide </h1>
 
+<table align=center border=10>
+   <tr>
+      <td><p><img src="https://github.com/user-attachments/assets/347c2591-2da4-4116-8447-376757e81b8b"></p></td>
+   </tr>
+</table>
+
 This guide will help you manually install a Lava Protocol node and join the testnet.
 
 #### **Step 1: System Preparation**
